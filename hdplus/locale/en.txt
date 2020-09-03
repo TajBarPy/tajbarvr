@@ -1,0 +1,85 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = A paralel dimension to enjoy and relax with the best style and a personalized attention.
+
+### Title
+tour.name = Taj Bar
+
+## Skin
+
+### Button
+Button_7DB31382_7065_343F_41D6_641BBE1B2562.label = Información
+Button_7DB31382_7065_343F_41D6_641BBE1B2562_mobile.label = Información
+Button_7DB33382_7065_343F_41B1_0B0F019C1828.label = Perspectivas
+Button_7DB33382_7065_343F_41B1_0B0F019C1828_mobile.label = Perspectivas
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.label = Ubicación
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.pressedLabel = Location
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.label = Ubicación
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.pressedLabel = Location
+Button_BD145CC8_9478_145B_41D6_359CB4C54BCA.label = LOREM IPSUM
+Button_BD145CC8_9478_145B_41D6_359CB4C54BCA_mobile.label = LOREM IPSUM
+Button_D0417731_EA0F_688E_4179_9487F7E45A51.label = Contacto
+Button_D0417731_EA0F_688E_4179_9487F7E45A51.pressedLabel = Location
+Button_D6308DBC_EA0C_FBF5_41E3_43EFD7337206_mobile.label = Contacto
+Button_D6308DBC_EA0C_FBF5_41E3_43EFD7337206_mobile.pressedLabel = Location
+
+### Multiline Text
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_BD15BCC8_9478_145B_41A0_1BDCC9E92EE8.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff0000;font-size:5.15vw;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Oswald';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Oswald';"><B><I>DOLOR SIT AME</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff0000;font-family:'Oswald';"><B>CONSECTETUR ADIPISCING ELIT. MORBI BIBENDUM PHARETRA LOREM, ACCUMSAN SAN NULLA.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5vw;"><BR STYLE="letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:5vw;"><BR STYLE="letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></DIV><p STYLE="margin:0; line-height:5vw;"><BR STYLE="letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></DIV><p STYLE="margin:0; line-height:5vw;"><BR STYLE="letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Oswald';"><B><I>DONEC FEUGIAT:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"> • Nisl nec mi sollicitudin facilisis </SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"> • Nam sed faucibus est.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"> • Ut eget lorem sed leo.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"> • Sollicitudin tempor sit amet non urna. </SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"> • Aliquam feugiat mauris sit amet.</SPAN></DIV></div>
+HTMLText_BD15BCC8_9478_145B_41A0_1BDCC9E92EE8_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff0000;font-size:5.15vw;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.11vw;font-family:'Oswald';"><B><I>Taj Bar</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5vw;"><BR STYLE="letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff0000;font-family:'Oswald';"><B>CONSECTETUR ADIPISCING ELIT. MORBI BIBENDUM PHARETRA LOREM, ACCUMSAN SAN NULLA.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5vw;"><BR STYLE="letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:5vw;"><BR STYLE="letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></DIV><p STYLE="margin:0; line-height:5vw;"><BR STYLE="letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></DIV><p STYLE="margin:0; line-height:5vw;"><BR STYLE="letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Oswald';"><B><I>DONEC FEUGIAT:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"> • Nisl nec mi sollicitudin facilisis </SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"> • Nam sed faucibus est.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"> • Ut eget lorem sed leo.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"> • Sollicitudin tempor sit amet non urna. </SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"> • Aliquam feugiat mauris sit amet.</SPAN></DIV></div>
+
+### Tooltip
+IconButton_CB79475F_D395_A062_41CD_4BDF57286CFC.toolTip = Fullscreen
+IconButton_CB79475F_D395_A062_41CD_4BDF57286CFC_mobile.toolTip = Fullscreen
+
+## Media
+
+### Title
+panorama_D2260829_DE49_63C2_41E2_1D2E367C3C3A.label = Interior - Point 2
+panorama_D228E7C6_DE4F_EC4F_41D3_3D56788D2E6F.label = Exterior - Point 4
+panorama_D235567B_DE4F_6C45_41EB_3612D5D0BA23.label = Exterior - Point 2
+panorama_D237F61F_DE49_AFFD_41E0_A85CC3E78F87.label = Interior - Entrada
+panorama_D2389766_DE4E_AC4F_41DB_1F94AF188A9F.label = Exterior - Entrada Lateral
+panorama_D26C0E51_DE4F_BC45_41E5_3D42372D6B9C.label = Exterior - Punto 3
+panorama_D26C7E93_DE49_7CC5_41D6_FA3694A0AC9C.label = Exterior - Entrada
+panorama_D26D2211_DE4F_A7C5_41E9_988FDE75C068.label = Exterior - Punto 5
+panorama_D26DAFED_DE4E_DC42_41DE_83B83A1CC249.label = Exterior - Totem
+panorama_D26EE264_DE4A_A443_41DC_2B1EF2FD9EAA.label = Interior - Punto 3
+panorama_D3BE6A75_DE4E_A44D_41E2_4BB5544C512A.label = Exterior - Punto 6
+panorama_DD9372F4_D38F_E025_41E7_73E511BABDBF.label = Exterior - Punto 7
+panorama_E598437D_E9F5_6F77_41E4_6D77765F55DB.label = Interior - Barra Principal
+panorama_E5986049_E9F7_289F_41E5_8B85DB6E1B74.label = Baño - Puerta
+panorama_E59B30FB_E9F4_E972_41D5_12E7E5BF38ED.label = Interior - Entrada Lateral
+panorama_E5C087EF_E9F5_1793_41C1_11DC3567B6A4.label = Interior - Punto 4
+panorama_E5D8094B_E9F7_1893_41E3_2DDED0CDD7FC.label = Interior - Deck DJ
+panorama_E5D8C362_E9F7_E88D_41EA_10F67714CAD4.label = Baño - Lavatorio
+panorama_E5D99CD9_E9F5_19BF_41E0_BB30E8D2EF9C.label = Interior - Punto 5
+panorama_E5D9FA10_E9F5_388D_41AE_93C49366A068.label = Interior - Barra/Sushi
+panorama_E7F6A0E8_E9F5_699D_41CF_EF712E04EFA6.label = Entrada al Baño
+panorama_FEEEBE2D_EA13_1897_41A3_12970CCA1A6C.label = Interior - Punto 1
+video_C55825AA_EA15_2B9D_41D3_30F150C00994.label = Miller Genuine Draft mut (2)
+video_C5582CE5_EA15_3997_41E2_874AF4E54D1A.label = Miller Genuine Draft mut (4)
+video_C55FA1E3_EA15_2B93_41C7_8E148A7A57BD.label = Johnnie Walker  mut (4)
+video_C55FB950_EA15_388D_41B9_3E654D2FDCC5.label = Miller Genuine Draft mut (3)
+video_C58A5C24_EA15_1895_41C2_5CC753DE63D6.label = Johnnie Walker  mut (2)
+video_C5D796B9_EA13_69FF_41B3_5155A3C63AF8.label = Miller Genuine Draft mute
+video_CF017359_D3F5_606E_41E6_B20C66C93AAF.label = Miller Genuine Draft   4X Filtered for Exceptional Smoothness
+video_CF827FE3_D3F5_A022_41E2_DC975D3291B2.label = Johnnie Walker   Black Label, Flavour Explosion   TV Commercial
+video_DA6578FE_EA13_3975_41D9_386414DA7E1D.label = Johnnie Walker  mute
+video_DA6C4E1D_EA15_18B7_41C1_6C9CB6201287.label = Johnnie Walker  mut (3)
+
+## Action
+
+### URL
+LinkBehaviour_FA60445D_F410_FB84_41E2_1A0D58C8C2F0.source = https://taj.innovatiopy.com/
+LinkBehaviour_FA60645D_F410_FB84_41E4_A590B388504A.source = https://taj.innovatiopy.com/
+LinkBehaviour_FA60A45E_F410_FB84_41C9_493DEBBE7702.source = https://api.whatsapp.com/send?phone=595985975089&text=%C2%A1Hola!%20Me%20gustar%C3%ADa%20saber%20sobre%20los%20servicios%20disponibles%20en%20Taj%20Bar.
+LinkBehaviour_FA7CB45C_F410_FB84_41BC_4AD732A23DF4.source = https://taj.innovatiopy.com/hdplus/
+LinkBehaviour_FA7D345C_F410_FB84_41E3_7FF9D0CED017.source = https://api.whatsapp.com/send?phone=595981408400&text=%C2%A1Hola!%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20los%20Paseos%20Digitales.
+LinkBehaviour_FA7DF45C_F410_FB84_41DE_0AD8D461FE74.source = https://taj.innovatiopy.com/hdplus/
+LinkBehaviour_FA7EE45D_F410_FB84_41D2_6A03CB751539.source = https://api.whatsapp.com/send?phone=595981408400&text=%C2%A1Hola!%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20los%20Paseos%20Digitales.
+LinkBehaviour_FA7FA45D_F410_FB84_41E7_33AD1A090D1A.source = https://api.whatsapp.com/send?phone=595985975089&text=%C2%A1Hola!%20Me%20gustar%C3%ADa%20saber%20sobre%20los%20servicios%20disponibles%20en%20Taj%20Bar.
